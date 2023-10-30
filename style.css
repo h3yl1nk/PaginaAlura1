@@ -5,6 +5,11 @@ body {
 }
 
 
+.principal{
+	background: #CCCCCC;
+	padding: 30px;
+}
+
 #banner {
 
 width: 100%;
@@ -51,11 +56,6 @@ p {
 
 #banner {
 	width:100%;
-}
-
-.principal{
-	background: #CCCCCC;
-	padding: 30px;
 }
 
 h1 {
